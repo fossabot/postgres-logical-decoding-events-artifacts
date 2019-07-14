@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.panda</groupId>
+  <artifactId>postgres-logical-decoding-events</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190714200649</lastUpdated>
+  </versioning>
+</metadata>
